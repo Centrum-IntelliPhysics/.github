@@ -14,7 +14,7 @@ Our lab is driven by the vision of **redefining scientific discovery** by blendi
   Developing latent neural operators to learn low-dimensional, physics-consistent embeddings for design and control.
 - **Scientific Machine Learning (SciML)**:  
   Leveraging PINNs and physics-informed operator learning to accelerate discovery.
-- **Phase Field Datasets**:  
-  Curating multiple open access phase field based mechanics datasets for assessing the performance of machine learning models. All datasets are created with open source finite element software FEniCS, and all are shared under CC BY SA 4.0 licenses. Please feel free to download and use them for any research or educational purposes!
+- **Mechanics Datasets**:  
+  Compiling a collection of open-access mechanics datasets to evaluate the performance of machine learning models. Each dataset is generated using the open-source finite element software FEniCS and released under the CC BY-SA 4.0 license. You are welcome to download and use them for any research or educational purpose!
 
 If you are interested in our work, you may also be interested in the SciML webinar series [JHU-IITD SMaRT](https://github.com/JHU-IITD-SMaRT) that we are hosting in collaboration with Prof. Souvik Chakraborty and Prof. Rajdip nayek from the Indian Institute of Technology, Delhi. 
