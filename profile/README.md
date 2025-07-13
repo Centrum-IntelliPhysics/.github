@@ -19,4 +19,4 @@ Our lab is driven by the vision of **redefining scientific discovery** by blendi
 
 You can find a comprehensive list of our publications on our [website](https://sites.google.com/view/centrum-intelliphysics/publications?authuser=1). We also upload all our presentations from conferences and seminars on our [GitHub Repository](https://github.com/Centrum-IntelliPhysics/Presentation-Slides).
 
-If you are interested in our work, you may also be interested in the SciML webinar series [JHU-IITD SMaRT](https://github.com/JHU-IITD-SMaRT) that we are hosting in collaboration with Prof. Souvik Chakraborty and Prof. Rajdip nayek from the Indian Institute of Technology, Delhi.
+If you are interested in our work, you may also be interested in the SciML webinar series [JHU-IITD SMaRT](https://github.com/JHU-IITD-SMaRT) that we are hosting in collaboration with Prof. Souvik Chakraborty and Prof. Rajdip Nayek from the Indian Institute of Technology, Delhi.
