@@ -17,4 +17,6 @@ Our lab is driven by the vision of **redefining scientific discovery** by blendi
 - **Mechanics Datasets**:  
   Compiling a collection of open-access mechanics datasets to evaluate the performance of machine learning models. Each dataset is generated using the open-source finite element software FEniCS and released under the CC BY-SA 4.0 license. You are welcome to download and use them for any research or educational purpose!
 
-If you are interested in our work, you may also be interested in the SciML webinar series [JHU-IITD SMaRT](https://github.com/JHU-IITD-SMaRT) that we are hosting in collaboration with Prof. Souvik Chakraborty and Prof. Rajdip nayek from the Indian Institute of Technology, Delhi. 
+You can find a comprehensive list of our publications on our [website](https://sites.google.com/view/centrum-intelliphysics/publications?authuser=1). We also upload all our presentations from conferences and seminars on our [GitHub Repository](https://github.com/Centrum-IntelliPhysics/Presentation-Slides).
+
+If you are interested in our work, you may also be interested in the SciML webinar series [JHU-IITD SMaRT](https://github.com/JHU-IITD-SMaRT) that we are hosting in collaboration with Prof. Souvik Chakraborty and Prof. Rajdip nayek from the Indian Institute of Technology, Delhi.
