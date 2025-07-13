@@ -16,3 +16,5 @@ Our lab is driven by the vision of **redefining scientific discovery** by blendi
   Leveraging PINNs and physics-informed operator learning to accelerate discovery.
 - **Phase Field Datasets**:  
   Curating multiple open access phase field based mechanics datasets for assessing the performance of machine learning models. All datasets are created with open source finite element software FEniCS, and all are shared under CC BY SA 4.0 licenses. Please feel free to download and use them for any research or educational purposes!
+
+If you are interested in our work, you may also be interested in the joint webinar series [JHU-IITD SMaRT](https://github.com/JHU-IITD-SMaRT) that we are hosting in collaboration with Prof. Souvik Chakraborty and Prof. Rajdip nayek from the Indian Institute of Technology, Delhi. 
