@@ -1,8 +1,8 @@
 # Welcome to Centrum IntelliPhysics Group at Johns Hopkins University
+ Like all good models, this page is iteratively updated. :)
 
 Our group is an interdisciplinary research group pioneering the convergence of **physics-based modeling** and **scientific machine learning** to solve complex scientific and engineering challenges.
 “We don’t replace physics — we **augment** it with intelligent data-driven models.”
-This page is always under construction. :)
 
 ---
 
